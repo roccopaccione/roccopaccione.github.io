@@ -1,24 +1,18 @@
 body{
     padding: 0;
     margin: 0;
-    background-image: url("../img/textured.jpg");
+    background-image: url("../img/back_gradient.jpeg");
+    background-size: cover;
 }
-/*section{*/
-/*    background-color: ivory;*/
-/*    position: relative;*/
-/*    box-sizing: content-box;*/
-/*    padding: 1rem;*/
-/*    border: 3px solid lightgray;*/
-/*    border-radius: 6px;*/
-/*}*/
-/*#aboutMe{*/
-/*    width: 60%;*/
-/*    float: right;*/
-/*}*/
-/*#sideInfo{*/
-/*    width: 15%;*/
-/*    text-align: left;*/
-/*}*/
+#headerName{
+    text-align: center;
+    font-size: 4rem;
+}
+#aboutMe{
+}
+#sideInfo{
+    float: left;
+}
 .topNav {
     list-style: none;
     display: flex;
