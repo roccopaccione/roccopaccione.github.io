@@ -4,14 +4,20 @@ body{
     background-image: url("../img/back_gradient.jpeg");
     background-size: cover;
 }
+li{
+    list-style: ;
+}
 #headerName{
     text-align: center;
     font-size: 4rem;
 }
 #aboutMe{
+    float: right;
+    width: 50%;
 }
 #sideInfo{
     float: left;
+    width: 40%;
 }
 .topNav {
     list-style: none;
@@ -20,7 +26,7 @@ body{
 .nav {
     margin: .5em;
     font-size: 1.3em;
-    color: black;
+    color: #ffffff;
     text-align: center;
     flex-direction: column;
     border: 1px solid grey;
