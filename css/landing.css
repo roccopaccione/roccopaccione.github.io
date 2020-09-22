@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:wght@200;400&family=Oswald:wght@300&family=Quicksand:wght@300;500&display=swap');
+
+
+
 body{
     padding: 0;
     margin: 0;
@@ -7,32 +11,46 @@ body{
 li{
 
 }
+h5{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    color: #f5f2d0;
+}
 #headerName{
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-size: 4rem;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
 }
 #aboutMe{
     float: right;
     width: 50%;
 }
 #sideInfo{
+    color: #f5f2d0;
     float: left;
     width: 40%;
 }
+.container{
+    font-family: 'Lora', serif;
+    margin: 0;
+    padding: 0;
+}
 .topNav {
+    font-family: 'Montserrat', sans-serif;
     list-style: none;
     display: flex;
+    padding: 0;
 }
 .nav {
     margin: .5em;
     font-size: 1.3em;
-    color: #ffffff;
-    text-align: center;
+    color: #f5f2d0;
     flex-direction: column;
-    border: 1px solid grey;
-    border-radius: 48%;
-    height: 50px;
-    width: 120px;
-
-
+    position: relative;
+}
+.nav:hover {
+    color: darkblue;
 }
