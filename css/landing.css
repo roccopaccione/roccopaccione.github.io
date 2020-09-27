@@ -17,6 +17,10 @@ h5{
 p{
     color: #f5f2d0;
 }
+.listIMG{
+    width: 85px;
+    height: 85px;
+}
 #headerName{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
