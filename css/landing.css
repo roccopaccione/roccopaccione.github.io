@@ -29,6 +29,7 @@ p{
     margin-bottom: 1em;
 }
 #aboutMe{
+    display: none;
     float: right;
     width: 50%;
 }
