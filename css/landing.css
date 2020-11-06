@@ -28,10 +28,15 @@ p{
     margin-top: 1.5em;
     margin-bottom: 1em;
 }
-#aboutMe{
-    display: none;
+#bio{
     float: right;
     width: 50%;
+}
+#abtMe{
+    display: none;
+}
+#projects{
+    display: none;
 }
 #sideInfo{
     color: #f5f2d0;
