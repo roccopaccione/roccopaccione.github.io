@@ -1,8 +1,9 @@
-var abtMeListener = function (event){
-}
+$(document).ready(function() {
+    $('#aboutMe').hide();
+});
 
-abtMeListener().getElementById('abtMe').addEventListener('click', show);
-
-var projectListener = function(event) {
-}
-projectListener().getElementById("projects").addEventListener('click', show);
+$("#abtMe").click(function (){
+    $('#bio').hide(200);
+    $('#sideInfo').hide(200);
+    $('#aboutMe').show(500);
+});
