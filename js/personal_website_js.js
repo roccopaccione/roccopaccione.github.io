@@ -4,6 +4,11 @@ $(document).ready(function() {
 
 $("#abtMe").click(function (){
     $('#bio').hide(200);
-    $('#sideInfo').hide(200);
-    $('#aboutMe').show(500);
-});
+    },
+    function () {
+        $('#sideInfo').hide(200);
+    },
+    function () {
+        $('.navContent').show(500);
+    }
+);
