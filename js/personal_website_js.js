@@ -1,5 +1,11 @@
 $(document).ready(function() {
-    $('#aboutMe').hide();
+    $('*').hide();
+},
+  function () {
+    $('*').fadeIn(700);
+  },
+    function () {
+        $('#aboutMe').hide();
 });
 
 $("#abtMe").click(
