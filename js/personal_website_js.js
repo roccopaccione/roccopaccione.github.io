@@ -2,7 +2,7 @@ $(document).ready(function() {
     $('#aboutMe').hide();
 });
 
-let click = $("#abtMe").click(
+$("#abtMe").click(
     function () {
         $('#bio').hide(200);
     },
