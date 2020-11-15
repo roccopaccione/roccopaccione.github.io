@@ -43,6 +43,11 @@ p{
     float: left;
     width: 40%;
 }
+#aboutMe{
+    border: solid grey 2px;
+    display: inline-block;
+    border-radius: 5px;
+}
 .container{
     font-family: 'Lora', serif;
     margin: 0;
