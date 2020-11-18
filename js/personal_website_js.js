@@ -1,21 +1,12 @@
-$(document).ready(function() {
-    $('*').hide();
+$(document).ready(
+    function () {
+        $("#aboutMe").hidden();
+    });
+$("#abtMe").click(function () {
+    $(this).show().fadeIn(600);
 },
-  function () {
-    $('*').fadeIn(700);
-  },
-    function () {
-        $('#aboutMe').hide();
-});
-
-$("#abtMe").click(
-    function () {
-        $('#bio').hide(200);
-    },
-    function () {
-        $('#sideInfo').hide(200);
-    },
-    function () {
-        $('.navContent').show(500);
+    function (){
+    $(".container").hide().fadeOut(400);
     }
 );
+
