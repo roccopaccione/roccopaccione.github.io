@@ -2,70 +2,70 @@
 
 
 
-body{
-    padding: 0;
-    margin: 0;
-    background-image: url("../img/back_gradient.jpeg");
-    background-size: cover;
-}
-li{
+/*body{*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    background-image: url("../img/back_gradient.jpeg");*/
+/*    background-size: cover;*/
+/*}*/
+/*li{*/
 
-}
-h5{
-    font-family: 'Montserrat', sans-serif;
-}
-p{
-    color: #f5f2d0;
-}
-.listIMG{
-    width: 85px;
-    height: 85px;
-}
-#headerName{
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    font-size: 4rem;
-    margin-top: 1.5em;
-    margin-bottom: 1em;
-}
-#bio{
-    float: right;
-    width: 50%;
-}
-#abtMe{
-    display: none;
-}
-#projects{
-    display: none;
-}
-#sideInfo{
-    color: #f5f2d0;
-    float: left;
-    width: 40%;
-}
-#aboutMe{
-    border: solid grey 2px;
-    display: inline-block;
-    border-radius: 5px;
-}
-.container{
-    font-family: 'Lora', serif;
-    margin: 0;
-    padding: 0;
-}
-.topNav {
-    font-family: 'Montserrat', sans-serif;
-    list-style: none;
-    display: flex;
-    padding: 0;
-}
-.nav {
-    margin: .5em;
-    font-size: 1.3em;
-    color: #f5f2d0;
-    flex-direction: column;
-    position: relative;
-}
-.nav:hover {
-    color: darkblue;
-}
+/*}*/
+/*h5{*/
+/*    font-family: 'Montserrat', sans-serif;*/
+/*}*/
+/*p{*/
+/*    color: #f5f2d0;*/
+/*}*/
+/*.listIMG{*/
+/*    width: 85px;*/
+/*    height: 85px;*/
+/*}*/
+/*#headerName{*/
+/*    font-family: 'Montserrat', sans-serif;*/
+/*    text-align: center;*/
+/*    font-size: 4rem;*/
+/*    margin-top: 1.5em;*/
+/*    margin-bottom: 1em;*/
+/*}*/
+/*#bio{*/
+/*    float: right;*/
+/*    width: 50%;*/
+/*}*/
+/*#abtMe{*/
+/*    display: none;*/
+/*}*/
+/*#projects{*/
+/*    display: none;*/
+/*}*/
+/*#sideInfo{*/
+/*    color: #f5f2d0;*/
+/*    float: left;*/
+/*    width: 40%;*/
+/*}*/
+/*#aboutMe{*/
+/*    border: solid grey 2px;*/
+/*    display: inline-block;*/
+/*    border-radius: 5px;*/
+/*}*/
+/*.container{*/
+/*    font-family: 'Lora', serif;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+/*.topNav {*/
+/*    font-family: 'Montserrat', sans-serif;*/
+/*    list-style: none;*/
+/*    display: flex;*/
+/*    padding: 0;*/
+/*}*/
+/*.nav {*/
+/*    margin: .5em;*/
+/*    font-size: 1.3em;*/
+/*    color: #f5f2d0;*/
+/*    flex-direction: column;*/
+/*    position: relative;*/
+/*}*/
+/*.nav:hover {*/
+/*    color: darkblue;*/
+/*}*/
