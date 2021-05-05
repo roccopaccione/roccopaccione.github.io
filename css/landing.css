@@ -2,8 +2,7 @@
 body{
     padding: 0;
     margin: 0;
-    background-image: url("../img/back_gradient.jpeg");
-    background-size: cover;
+    background-color: #313639;
 }
 #headerName{
     font-family: 'Montserrat', sans-serif;
