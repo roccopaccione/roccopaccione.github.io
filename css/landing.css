@@ -2,10 +2,11 @@
 * {
     padding: 0;
     margin: 0;
-    background-color: #313639;
+    background-color: #202847;
 }
 #headerName{
     font-family: 'Montserrat', sans-serif;
+    color: #E0BD02;
     text-align: center;
     font-size: 4rem;
     margin-top: 1.5em;
